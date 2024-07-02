@@ -13,7 +13,7 @@ def create_columns_if_not_exists(viewId, apiKey, view, json_languages, sourcelan
     for column in view["columns"]:
         if "languageCode" in column:
             language_codes.append(column["languageCode"])
-    print(language_codes)
+    #print(language_codes)
     if sourcelanguage not in language_codes:
         gridly_api_calls.create_column(viewId, apiKey, sourcelanguage, "sourceLanguage")
         added_langs.append(sourcelanguage)
