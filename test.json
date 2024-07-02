@@ -1,0 +1,80 @@
+{
+  "hu": {
+    "navigation": {
+      "home": "",
+      "8mz9zlqz79j73": "",
+      "about": "",
+      "contact": ""
+    },
+    "messages": {
+      "welcome": "",
+      "farewell": ""
+    },
+    "errors": {
+      "not_found": "",
+      "server_error": ""
+    },
+    "profile": {
+      "greetings": {
+        "morning": "",
+        "evening": ""
+      },
+      "settings": {
+        "account": "",
+        "privacy": ""
+      }
+    }
+  },
+  "en": {
+    "navigation": {
+      "home": "Home",
+      "8mz9zlqz79j73": "Home",
+      "about": "About Us",
+      "contact": "Contact"
+    },
+    "messages": {
+      "welcome": "Welcome to our application!",
+      "farewell": "Thank you for visiting. Goodbye!"
+    },
+    "errors": {
+      "not_found": "The requested item was not found.",
+      "server_error": "Internal server error. Please try again later."
+    },
+    "profile": {
+      "greetings": {
+        "morning": "Good morning",
+        "evening": "Good evening"
+      },
+      "settings": {
+        "account": "Account Settings",
+        "privacy": "Privacy Settings"
+      }
+    }
+  },
+  "es": {
+    "navigation": {
+      "home": "Inicio",
+      "8mz9zlqz79j73": "Inicio",
+      "about": "Sobre Nosotros",
+      "contact": "Contacto"
+    },
+    "messages": {
+      "welcome": "¡Bienvenido a nuestra aplicación!",
+      "farewell": "Gracias por visitarnos. ¡Adiós!"
+    },
+    "errors": {
+      "not_found": "El ítem solicitado no fue encontrado.",
+      "server_error": "Error del servidor. Por favor, inténtelo de nuevo más tarde."
+    },
+    "profile": {
+      "greetings": {
+        "morning": "Buenos días",
+        "evening": "Buenas noches"
+      },
+      "settings": {
+        "account": "Configuración de la Cuenta",
+        "privacy": "Configuración de Privacidad"
+      }
+    }
+  }
+}
